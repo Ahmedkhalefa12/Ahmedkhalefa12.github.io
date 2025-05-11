@@ -1,0 +1,11 @@
+@charset "utf-8";
+@font-face {
+    font-family: 'LiberationSans_f_1';
+    src: url('/doc-asset/font/fd4034ccec865ac7c101a36a8f46b8dc0a400f22.woff') format('woff');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'LiberationSans_f_2';
+    src: url('/doc-asset/font/b59d8f660d048b61bfdbbd16f281c373bed2c5f2.woff') format('woff');
+    font-display: swap;
+}
